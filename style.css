@@ -1,0 +1,17 @@
+body{
+    background-color: #5C636A !important;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.new{
+   display: flex;
+   justify-content: space-around;
+   align-items: center; 
+}
+
+.customer{
+    background-color: #5C636A !important;
+    color: black;
+}
